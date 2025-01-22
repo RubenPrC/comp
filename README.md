@@ -1,1 +1,1 @@
-# comp
+# computacion 2º bach
